@@ -33,3 +33,33 @@ This was a collaborative academic project for ISM 6405. My individual contributi
 The results demonstrate how machine learning can identify patterns associated with diabetes risk. Logistic Regression provided strong overall performance, while Decision Tree tuning significantly improved the model's ability to distinguish between diabetes classifications.
 
 These findings highlight the importance of evaluating multiple models and balancing different performance metrics.
+
+## Exploratory Data Analysis
+
+### Diabetes Rate by High Blood Pressure
+![Diabetes Rate by High BP](images/diabetes_high_bp.png)
+
+Respondents with high blood pressure had a higher observed diabetes/prediabetes rate than those without high blood pressure.
+
+### Diabetes Rate by General Health
+![Diabetes Rate by General Health](images/diabetes_general_health.png)
+
+The diabetes/prediabetes rate increased as self-reported general health declined.
+
+### BMI Distribution by Diabetes Class
+![BMI by Diabetes Class](images/bmi_by_diabetes.png)
+
+Respondents with diabetes/prediabetes generally had higher BMI values.
+
+### Correlation Heatmap
+![Correlation Heatmap](images/correlation_heatmap.png)
+
+This visualization shows the relationships among the health indicators.
+
+### Class Distribution
+![Class Distribution](images/class_distribution.png)
+
+The dataset contains considerably more respondents without diabetes than respondents with diabetes/prediabetes.
+
+### BMI Distribution
+![BMI Distribution](images/bmi_distribution.png)
