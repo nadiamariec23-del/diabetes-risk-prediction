@@ -56,10 +56,3 @@ Respondents with diabetes/prediabetes generally had higher BMI values.
 
 This visualization shows the relationships among the health indicators.
 
-### Class Distribution
-![Class Distribution](images/class_distribution.png)
-
-The dataset contains considerably more respondents without diabetes than respondents with diabetes/prediabetes.
-
-### BMI Distribution
-![BMI Distribution](images/bmi_distribution.png)
